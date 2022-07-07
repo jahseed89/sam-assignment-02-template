@@ -53,7 +53,6 @@ function celsiusToFahrenheit(arrayOfNumbers) {
 }
 // assignment.celsiusToFahrenheit = celsiusToFahrenheit;
 
-
 // ========================
 // DO NOT EDIT THIS BLOCK
 module.exports = assignment;
